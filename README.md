@@ -11,7 +11,6 @@ Everything runs on a server in my flat. I'm doing my M.Sc. Computer Science at P
 
 <p align="center">
   <a href="https://futile.studio"><b>futile.studio</b></a> &nbsp;/&nbsp;
-  <a href="https://lab.futile.studio"><b>lab.futile.studio</b></a> &nbsp;/&nbsp;
   <a href="https://linkedin.com/in/mayurjivani">LinkedIn</a> &nbsp;/&nbsp;
   <a href="mailto:mayur@futile.studio">mayur@futile.studio</a>
 </p>
@@ -129,9 +128,9 @@ Everything listed on [futile.studio](https://futile.studio). Every screenshot is
 
 ---
 
-## The lab
+## More on the shelf
 
-[lab.futile.studio](https://lab.futile.studio) is the messier shelf: prototypes, dailies and things I'm still poking at. Some have public source, some don't yet.
+Prototypes, dailies and things I'm still poking at. Some have public source, some don't yet.
 
 **Games**
 - **[Katze](https://katze.futile.studio)** · Skull, themed as Schrödinger's cat. Three live cats, one dead one, lie about it. [Source](https://github.com/MayurJivani/Katze)
@@ -152,24 +151,6 @@ Everything listed on [futile.studio](https://futile.studio). Every screenshot is
 - **[Atlas](https://atlas.futile.studio)** · A library for NASA's public image archive, opening on the Artemis II flight release.
 - **[Two Rooms & a Boom](https://muddle.futile.studio)** · The party game for 6 to 30 people. One TV, everyone's phone.
 - **[WANT / NOT YET](https://gigs.futile.studio)** · Pin what you want, send friends one link, they quietly call dibs.
-- **[VICEWIRE](https://vicewire.futile.studio)** · The social network of Vice City. A fan-made parody.
-- **Murmur** · One sound field played across whatever phones are lying around. Still in the workshop.
-
-<details>
-<summary><b>Older work and other repos</b></summary>
-<br>
-
-- **[Shaam](https://github.com/MayurJivani/Shaam)** · Party games for one TV and a room full of phones, with one leaderboard across the night. [Play](https://shaam.futile.studio)
-- **[Futile-Studio](https://github.com/MayurJivani/Futile-Studio)** · The source of futile.studio. Astro and GSAP, plus a small Express backend.
-- **[Qno (Unity)](https://github.com/MayurJivani/Qno)** · The first Qno, a Unity card game. The web version replaced it.
-- **[Chorus-PHP](https://github.com/MayurJivani/Chorus-PHP)** · The original Chorus in PHP and vanilla JS on the Spotify API. Chorusify replaced it.
-- **[zenspace](https://github.com/MayurJivani/zenspace)** · Virtual study spaces with a timer, to-do list and custom audio and video players.
-- **[Peerly](https://github.com/MayurJivani/Peerly)** · Peer-to-peer file transfer in the browser with React and PeerJS.
-- **[Mysic](https://github.com/MayurJivani/Mysic)** · A music app with a React frontend and a Node backend.
-- **[FTN-backend](https://github.com/MayurJivani/FTN-backend)** · The Fly The Nest API: Express, S3 uploads, JWT auth.
-- **[KemChoAhmdavad-Twitter-Bot](https://github.com/MayurJivani/KemChoAhmdavad-Twitter-Bot)** · A bot that posted Ahmedabad news and events on a schedule.
-
-</details>
 
 ---
 
@@ -193,9 +174,9 @@ At 1am the problem is on this side of the wall, which I like.
 
 ## Lately
 
-- **Sound as a network.** Knock joins rooms with ultrasound, Sextant works out where phones are by listening to each other, and Murmur wants to turn all of them into one speaker.
+- **Sound as a network.** Knock joins rooms with ultrasound, and Sextant works out where phones are by listening to each other.
 - **One game, hundreds of people.** Dabber, Pressure and Consensus put up to 400 players in the same live match.
-- **The TV and phones format.** Noggin, Croon, Shaam and Two Rooms & a Boom all use the TV as the board and every phone as a controller.
+- **The TV and phones format.** Noggin, Croon and Two Rooms & a Boom all use the TV as the board and every phone as a controller.
 - **A turntable you can actually spin**, for the record shelf on futile.studio.
 
 ## Activity
@@ -225,11 +206,14 @@ or about self-hosting and having a server you can walk over to.
 
 <p align="center">
   <a href="https://futile.studio">futile.studio</a> &nbsp;/&nbsp;
-  <a href="https://lab.futile.studio">lab</a> &nbsp;/&nbsp;
   <a href="https://linkedin.com/in/mayurjivani">LinkedIn</a> &nbsp;/&nbsp;
   <a href="mailto:mayur@futile.studio">mayur@futile.studio</a>
 </p>
 
 ---
 
-<p align="center"><sub><i>We are here briefly. At scale, nothing persists. There is still something worth doing in the making.</i></sub></p>
+<p align="center">
+  <a href="https://futile.studio"><img src="assets/futile-studio.png" alt="futile.studio" width="200"></a>
+  <br>
+  <sub><i>We are here briefly. At scale, nothing persists. There is still something worth doing in the making.</i></sub>
+</p>
