@@ -4,12 +4,10 @@
   <b>I build things that probably didn't need to exist, until they did.</b>
 </p>
 
-<p align="center">
-  Hi, I'm Mayur. I make small games, tools and odd experiments, mostly for the people I play games with.
-  I love hosting game nights, and a lot of what's here started at one: a quiz that needed a buzzer,
-  a karaoke night with no machine, a social deduction game with no cards on hand.
-  Everything runs on a server in my flat. I'm doing my M.Sc. Computer Science at Paderborn.
-</p>
+Hi, I'm Mayur. I make small games, tools and odd experiments, mostly for the people I play games with.
+I love hosting game nights, and a lot of what's here started at one: a quiz that needed a buzzer,
+a karaoke night with no machine, a social deduction game with no cards on hand.
+Everything runs on a server in my flat. I'm doing my M.Sc. Computer Science at Paderborn.
 
 <p align="center">
   <a href="https://futile.studio"><b>futile.studio</b></a> &nbsp;/&nbsp;
